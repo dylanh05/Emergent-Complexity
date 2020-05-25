@@ -22,7 +22,6 @@ class QuadTree():
                     pos1 += cpart
                     self.treelocs.append([[pos, pos1 - cpart],[pos+cpart, pos1]])
                 pos += cpart
-        #self.treelocs.append(layer)
 
     # For quadtree visualization
     def draw_tree(self):
