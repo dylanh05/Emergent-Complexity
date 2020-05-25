@@ -135,6 +135,7 @@ while running:
 
     draw_grid()
     pygame.display.flip()
+
     count += 1
     if count > 1000:
         count = 0
