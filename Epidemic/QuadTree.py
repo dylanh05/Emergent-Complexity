@@ -12,7 +12,6 @@ class QuadTree():
         self.quads = [[] for i in range(4**npartitions)]
         cpart = screen_size
         for i in range(npartitions):
-            #layer = []
             self.treelocs = []
             pos = 0
             cpart = cpart/2
