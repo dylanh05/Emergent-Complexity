@@ -72,5 +72,4 @@ while running:
     t += 1
     pygame.display.flip()
 
-
 pygame.quit()
