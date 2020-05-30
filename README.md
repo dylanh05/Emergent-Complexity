@@ -13,5 +13,5 @@
   
   Chaos Equations- Simple nonautonomous differential equations give rise to complex patterns. Inspired by [CodeParade](https://www.youtube.com/watch?v=fDSIRXmnVvk).
   
-  Particle Life- Not yet completed
+  Particle Life- Create self organizing cell like structures with random attraction generator. Not yet completed.
   
