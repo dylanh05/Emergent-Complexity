@@ -1,7 +1,7 @@
 ## Projects where complex behavior emerges from simple rules.
 
 
-**Projects** (In order of decreasing elegance):
+**Projects**:
 
   Boids- Simulates flocking patterns using [3 simple rules](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html). Uses quad tree optimization for speed. Interactive tuning of parameters and obstacles implemented.
   
